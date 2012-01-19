@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.juno.listsample"
+      android:versionCode="1"
+      android:versionName="1.0">
+    <application android:icon="@drawable/icon01" android:label="@string/app_name" android:debuggable="true">
+        <activity android:name="com.juno.animatedlist.demo.MyListMain"
+                  android:label="@string/app_name"
+                  android:screenOrientation="sensor">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+		
+    </application>
+	
+	 <uses-sdk 
+	 	android:minSdkVersion="8" 
+	 	android:targetSdkVersion="7" />
+
+</manifest> 

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- List Color Start -->
+	<color name="list_txt_top">#708CE1</color>
+	<color name="list_txt_bottom">#FF89F8</color>
+	<color name="list_divider">#FFB267</color>
+	
+	<color name="list_item_clicked_bg">#000000</color>
+	<color name="list_item_default_bg">#FFFFFF</color>
+	<!-- List Color End.. -->
+	
+</resources>

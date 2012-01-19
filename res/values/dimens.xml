@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="list_top_txt_size">20dip</dimen>
+	<dimen name="list_bottom_txt_size">14dip</dimen>
+</resources>
